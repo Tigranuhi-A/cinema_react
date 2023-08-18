@@ -1,4 +1,4 @@
-# React Cinema Project
+# React Cinema Project :movie_camera:
 
 The React Cinema Project is a web application that utilizes API data to allow users to explore and discover TV shows of various genres. Users can easily filter and view detailed information about shows and their casts, as well as access Wikipedia pages of cast members.
 
