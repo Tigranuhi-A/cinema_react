@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cinema_react/static/css/main.822547c0.css",
+    "main.js": "/cinema_react/static/js/main.9a835ff5.js",
+    "static/media/home.jpg": "/cinema_react/static/media/home.b3aa9681c49ae681f661.jpg",
+    "static/media/movielogy.png": "/cinema_react/static/media/movielogy.16c846fa0288af09730f.png",
+    "index.html": "/cinema_react/index.html",
+    "main.822547c0.css.map": "/cinema_react/static/css/main.822547c0.css.map",
+    "main.9a835ff5.js.map": "/cinema_react/static/js/main.9a835ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822547c0.css",
+    "static/js/main.9a835ff5.js"
+  ]
+}
