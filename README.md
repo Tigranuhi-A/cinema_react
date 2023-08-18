@@ -1,4 +1,4 @@
-# React Cinema Project :movie_camera:
+# React Cinema Project :clapper:
 
 The React Cinema Project is a web application that utilizes API data to allow users to explore and discover TV shows of various genres. Users can easily filter and view detailed information about shows and their casts, as well as access Wikipedia pages of cast members.
 
@@ -36,11 +36,7 @@ Before you begin, make sure you have the following prerequisites:
 
 ## Usage
 
-### Fetching Data
-
 The app fetches data from an external API to populate its content. Ensure you have a stable internet connection while using the app to ensure data retrieval.
-
-### Viewing Food Categories
 
 1. Run the development server:
    ```bash
