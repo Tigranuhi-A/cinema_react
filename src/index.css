@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)), url(./img/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+ul {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: orange;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 10px;
+    animation: animate 3.5s infinite linear;
+}
+
+ul li:nth-of-type(1) {
+    animation-delay: 0s;
+}
+
+ul li:nth-of-type(2) {
+    animation-delay: .2s;
+}
+
+ul li:nth-of-type(3) {
+    animation-delay: .4s;
+}
+
+ul li:nth-of-type(4) {
+    animation-delay: .6s;
+}
+
+ul li:nth-of-type(5) {
+    animation-delay: .8s;
+}
+
+ul li:nth-of-type(6) {
+    animation-delay: 1s;
+}
+
+ul li:nth-of-type(7) {
+    animation-delay: 1.2s;
+}
+
+ul li:nth-of-type(8) {
+    animation-delay: 1.4s;
+}
+
+ul li:nth-of-type(9) {
+    animation-delay: 1.6s;
+}
+
+ul li:nth-of-type(10) {
+    animation-delay: 1.8s;
+}
+
+ul li:nth-of-type(11) {
+    animation-delay: 2s;
+}
+
+@keyframes animate {
+    0% {
+        filter: blur(0px);
+    }
+
+    50% {
+        filter: blur(0px);
+    }
+
+    100% {
+        filter: blur(40px);
+    }
+}
