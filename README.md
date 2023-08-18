@@ -34,7 +34,6 @@ Before you begin, make sure you have the following prerequisites:
    ```bash
    npm install
 
-
 ## Usage
 
 ### Fetching Data
