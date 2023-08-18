@@ -2,6 +2,8 @@
 
 The React Movieology Project is a web application that utilizes API data to allow users to explore and discover TV shows of various genres. Users can easily filter and view detailed information about shows and their casts, as well as access Wikipedia pages of cast members.
 
+See: http://Tigranuhi-A.github.io/cinema_react/
+
 
 ## Features
 + Browse TV show genres and see the list of available shows using API data.
