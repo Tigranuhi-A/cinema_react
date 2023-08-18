@@ -1,6 +1,6 @@
-# React Cinema Project :clapper:
+# React Movieology Project :clapper:
 
-The React Cinema Project is a web application that utilizes API data to allow users to explore and discover TV shows of various genres. Users can easily filter and view detailed information about shows and their casts, as well as access Wikipedia pages of cast members.
+The React Movieology Project is a web application that utilizes API data to allow users to explore and discover TV shows of various genres. Users can easily filter and view detailed information about shows and their casts, as well as access Wikipedia pages of cast members.
 
 
 ## Features
@@ -57,7 +57,7 @@ This will start the application in development mode and open it in your default 
 
 #
 
-Thank you for checking out the React Cinema Project! If you have any questions or suggestions, feel free to open an issue or contact us. Happy coding! 🚀
+Thank you for checking out the React Movieology Project! If you have any questions or suggestions, feel free to open an issue or contact us. Happy coding! 🚀
    
    
 
